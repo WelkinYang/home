@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/yuhanwei/static/css/main.fe927caf.css",
+    "main.js": "/yuhanwei/static/js/main.65096816.js",
+    "static/js/787.4b24f717.chunk.js": "/yuhanwei/static/js/787.4b24f717.chunk.js",
+    "static/media/hashirshoaeb.png": "/yuhanwei/static/media/hashirshoaeb.23e8b5a1f7de87f03d05.png",
+    "static/media/yuhanwei.png": "/yuhanwei/static/media/yuhanwei.393d14405dac74171ac0.png",
+    "static/media/Keio-university-vector-logo.png": "/yuhanwei/static/media/Keio-university-vector-logo.9ab1b3a40270e815b89f.png",
+    "index.html": "/yuhanwei/index.html",
+    "main.fe927caf.css.map": "/yuhanwei/static/css/main.fe927caf.css.map",
+    "main.65096816.js.map": "/yuhanwei/static/js/main.65096816.js.map",
+    "787.4b24f717.chunk.js.map": "/yuhanwei/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.65096816.js"
+  ]
+}
